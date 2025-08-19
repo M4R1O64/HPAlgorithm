@@ -118,7 +118,7 @@ def find_minimal_intervals(intervals):
         contains_inner = any(a <= c and d <= b and (c,d) != (a,b) for c,d in intervals)
         if not contains_inner:
             minimal.append((a,b))
-    log(f"[MINNIMAL]: {minimal}", 1, GREEN)
+    log(f"[MINIMAL]: {minimal}", 1, GREEN)
     return minimal
 
 def is_continuous(h1, h2, all_intervals):
