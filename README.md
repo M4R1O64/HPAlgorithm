@@ -6,6 +6,6 @@ Anne Bergeron의 'A Very Elementary Presentation of the Hannenhalli-Pevzner Theo
 
 왜 통과된건지는 저도 모르겠습니다...
 
-추가로 올린 999바이트 코드는 이후에 단순히 Oriented Pairs가 최대인 것만 찾아 회전시키도록 만들어 길이를 대량으로 줄여낸 코드입니다.
+추가로 올린 500바이트 코드는 이후에 단순히 Oriented Pairs가 최대인 것만 찾아 회전시키도록 만들어 길이를 대량으로 줄여낸 코드입니다.
 
-그래서 해당 문제에서 본 코드가 유일한 1000바이트 미만 코드입니다.
+그래서 해당 문제에서 본 코드가 유일한 500바이트 이하 코드입니다.
